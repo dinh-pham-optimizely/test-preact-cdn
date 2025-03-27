@@ -48,3 +48,5 @@ const init = () =>
 
 
 export default { init }
+
+window.testCdn = init;
